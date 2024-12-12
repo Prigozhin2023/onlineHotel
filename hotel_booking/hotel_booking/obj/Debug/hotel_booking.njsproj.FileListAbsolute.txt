@@ -1,3 +1,0 @@
-C:\Users\kakas\source\repos\hotel_booking\hotel_booking\obj\Debug\hotel_booking.njsproj.AssemblyReference.cache
-C:\Users\kakas\source\repos\hotel_booking\hotel_booking\obj\Debug\hotel_booking.njsproj.CoreCompileInputs.cache
-C:\Users\kakas\source\repos\hotel_booking\hotel_booking\bin\Microsoft.NodejsTools.WebRole.dll
